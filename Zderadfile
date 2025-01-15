@@ -1,0 +1,17 @@
+# Modified Hello World Program
+
+This program was created for the first week in COS2005 Python Programming.
+
+## Source Code
+
+^[include,lang=python,include_filenames](program_*.py)
+
+## Sample Runs
+
+### `program_1.py`
+
+^[exec](python3 program_1.py)
+
+### `program_2.py`
+
+^[exec](python3 program_2.py)
