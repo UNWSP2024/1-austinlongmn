@@ -1,6 +1,10 @@
-def hello_world():
-    # Update the message below to say "Hello World", 
-    # Python cares about white space, so watch your indentation.
-    print('Hello ...')
+# Programmer: Austin Long
+# Date: 1/15/25
 
-hello_world()
+def hello_world():
+    # Write "Hello World" to STDOUT
+    print('Hello World')
+
+# Run the function
+if __name__ == "__main__":
+    hello_world()
